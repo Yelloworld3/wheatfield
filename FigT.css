@@ -1,0 +1,185 @@
+* {
+
+    margin: 0;
+    padding: 0;
+    background-color: blueviolet;
+    background-size: 100%;
+    
+}
+
+.body {
+
+   background-size: cover;
+   
+    
+    
+
+}
+
+
+.header {
+   
+    height: 15vh;
+    margin: 0px 0 2px 0;
+   
+}
+
+.navbar {
+    margin: 2rem auto;
+    display: flex;
+    height: 3rem;
+    width: fit-content;
+    padding: 0.2rem 2rem;
+    justify-content: center;
+    align-items: center;
+    gap: 4rem;
+    border-style: hidden;
+    border-radius: 100000000000px;
+    background-color: hsla(0, 100%, 100%, 0);
+    
+    
+    
+    
+}
+
+.navbar:hover {
+
+    background-color: hsla(0, 100%, 100%, 0.3);
+
+}
+
+.navlinks {
+    
+    color: antiquewhite;
+    text-decoration: none;
+    font-style: oblique;
+    transition-duration: 0.5s;
+    background-color: inherit;
+    
+}
+
+.navlinks:hover {
+
+    font-size: x-large;
+    color: rgb(65, 237, 243);
+    transform-style: preserve-3d;
+    border-radius: 100000000px;
+    margin: 2rem;
+    height: 2rem;
+    width: 3rem;
+    text-align: center;
+    justify-content: center;
+    background-color: inherit;
+    
+    
+
+}
+
+.main {
+    
+    
+    justify-content: center;
+
+    
+}
+
+.title{
+    margin: 2rem auto;
+    text-align: center;
+    color: azure;
+    font-size: x-large;
+
+}
+
+.maincontent {
+
+    
+    margin: 3rem auto;
+    padding: auto;
+    text-align: center;
+    font-size: x-large;
+    color: azure;
+}
+
+.maincontent p:hover {
+
+    
+    background-color: hsla(0, 100%, 100%, 0.6);
+    color: black;
+    border-radius: 100000000px;
+    margin: auto 25rem;
+    
+    
+
+}
+
+.maincontent h1 {
+
+    color: black;
+    margin-bottom: 4rem;
+}
+
+
+.pageBullets {
+
+    display: flex;
+    justify-content: center;
+    gap: 0.5rem;
+    border-style: hidden;
+    margin: auto;
+    
+    
+}
+
+.bullets {
+
+    
+    border-style: hidden;
+    border-radius: 9999999px;
+    justify-content: center;
+    text-align: center;
+    align-content: center;
+    background-color: aliceblue;
+    padding: 0.2rem;
+    
+
+
+}
+
+.bullets:hover {
+
+    font-size: large;
+    background-color: antiquewhite;
+
+}
+
+
+
+
+
+.lowerButton button {
+
+    display: flex;
+    font-size: medium;
+    padding: 0.5rem;
+    border-style: hidden;
+    border-radius: 1000000000px;
+    text-align: center;
+    justify-content: center;
+    background-color: hsla(0, 100%, 100%, 0.9);
+    align-content: center;
+    margin: 1rem auto;
+    
+    
+    
+}
+
+.lowerButton button:hover {
+
+    font-size: large;
+    background-color: antiquewhite;
+    transition-duration: 0.5s;
+
+}
+
+
